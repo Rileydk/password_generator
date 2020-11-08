@@ -17,17 +17,17 @@
 **注意：須已安裝git、Node.js。**
 
 1. 打開終端機，前往想存放的資料夾
-    ```bash
-    cd </path/.../dir>
-    ```
+  ```bash
+  cd </path/.../dir>
+  ```
 2. 下載專案
-    ```bash
-    git clone https://github.com/Rileydk/password_generator.git
-    ```
+  ```bash
+  git clone https://github.com/Rileydk/password_generator.git
+  ```
 3. 安裝所需套件
-    ```bash
-    npm install
-    ```
+  ```bash
+  npm install
+  ```
 4. 啟動伺服器
   ```bash
   npm run dev

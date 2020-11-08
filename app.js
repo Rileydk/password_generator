@@ -11,7 +11,7 @@ const port = 3000
 app.use(express.static('public'))
 
 // Set bodyParser
-app.use(bodyParser.urlencoded({ extend: true }))
+app.use(bodyParser.urlencoded({ extended: true }))
 
 // Set template engine
 app.engine('handlebars', handlebars({ defaultLayout: 'main' }))
@@ -19,7 +19,7 @@ app.set('view engine', 'handlebars')
 
 // Handle request and response
 app.get('/', (req, res) => {
-  res.render('index')
+  res.render('main')
 })
 
 app.post('/', (req, res) => {
