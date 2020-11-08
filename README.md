@@ -43,6 +43,7 @@
 - [npm: v6.14.8](https://www.npmjs.com/)
 - [express.js: v4.17.1](https://www.npmjs.com/package/express)
 - [express-handlebars: v5.2.0](https://www.npmjs.com/package/express-handlebars)
+- [body-parser: v1.19.0](https://www.npmjs.com/package/body-parser)
 - [bootstrap: v4.5.3](https://getbootstrap.com/)
 - [jquery: v3.5.1](https://jquery.com/download/)
 - [popper: v2](https://popper.js.org/)
